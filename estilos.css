@@ -30,3 +30,15 @@ body {
     text-align: justify;
 
 }
+
+
+footer{ 
+
+    color : white;
+    
+    text-align: center;
+    text-decoration: solid;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
